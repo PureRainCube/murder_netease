@@ -1,0 +1,10 @@
+function gamefunc/start
+function gamefunc/game
+function gamefunc/gold
+function gamefunc/trap
+function gamefunc/arrow
+function gamefunc/other
+function gamefunc/buff
+function gamefunc/hopper
+function gamefunc/particle
+function gamefunc/sword
